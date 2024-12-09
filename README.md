@@ -1,4 +1,4 @@
-# HoneyBadger Framework - Demo
+# HoneyBadger Framework - Demo Version
 
 HoneyBadger is a highly-optimized Solidity development framework that makes it easy to build cutting-edge Solidity systems by streamlining development requirements and providing powerful capabilities right out of the box.  With HoneyBadger, developers can leverage powerful utilities including pre-built permission management, batch operations, governance modules, and more as they write efficient pure-logic contracts, leveraging HoneyBadger as their storage layer.  Additionally, HoneyBadger provides a new approach to upgradeability, enabling in-place storage space and mapping extension, providing a significant advantage over traditional proxy-delegate models.
 
