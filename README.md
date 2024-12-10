@@ -31,11 +31,11 @@ types: 1 - uint, 2 - int, 3 - bool, 4 - address, 5 - bytes32 (for special uses, 
 
 ie; put(1234, 1, 0) 
 
-1234: value
+• 1234: value
 
-1: member index (ie; the second value in our mapping)
+• 1: member index (ie; the second value in our mapping)
 
-0: entry index -- ie; user with id 0
+• 0: entry index -- ie; user with id 0
 
 
 
