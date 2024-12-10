@@ -21,7 +21,7 @@ Init expects the following:
 
 types: <uint256>[],
 sizes: <uint256>[],
-types.length === sizes.length
+types.length == sizes.length
 
 types: 1 - uint, 2 - int, 3 - bool, 4 - address, 5 - bytes32 (for special uses, uint256 is functionally identical).
 
